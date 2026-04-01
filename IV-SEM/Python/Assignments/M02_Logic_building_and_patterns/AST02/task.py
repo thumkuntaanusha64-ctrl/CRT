@@ -1,5 +1,8 @@
 def reverse_number(n: int) -> int:
-    pass
+    lol = str(n)
+    josh = lol[::-1]
+    france =  int(josh)
+    return france
 
 if __name__ == "__main__":
     n = int(input())
