@@ -1,4 +1,6 @@
 def count_digits(n: int) -> int:
+    lo = str(n)
+    return len(lo)
     pass
 
 if __name__ == "__main__":
