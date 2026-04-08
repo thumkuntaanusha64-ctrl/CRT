@@ -8,7 +8,7 @@ def right_triangle(n: int) -> str:
 
 
 if __name__ == "__main__":
-    n = int(input())
+    n = int(input("Enter the n"))
     print(right_triangle(n))
 if __name__ == "__main__":
     n = int(input())
